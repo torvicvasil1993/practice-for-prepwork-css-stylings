@@ -1,37 +1,38 @@
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    font-size: 4em;
+    font-family: "Times New Roman", Times, serif;
+    padding: 0;
+    margin: 0;
+    font-weight: 2;
+    text-decoration: None;
+    color: Black;
+    background-color: None;
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+    font-size: 2em;
+    font-family: "Times New Roman", Times, serif;
+    padding: 0;
+    margin: 0;
+    font-weight: 2;
+    color: Black;
+    background-color: None;
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1em;
+    padding: 2;
+    margin: 2;
+    color: Black;
+    background-color: None;
 }
 
+/* https://coder-coder.com/how-to-fix-css-background-image-not-working/#:~:text=Make%20sure%20the%20image%20path,in%20the%20browser%20to%20check. */
 .logo {
     background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-image: url("https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png");
+    background-color: None;
+    height: 100px;
+    width: 100px;
 }
